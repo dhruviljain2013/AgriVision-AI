@@ -22,9 +22,9 @@ st.set_page_config(
 # PATHS
 # =====================================================
 
-MODEL_PATH = Path("models/best_model.keras")
-DATASET_CONFIG = Path("config/dataset_config.json")
-DISEASE_DATABASE = Path("config/disease_database.json")
+MODEL_PATH = Path("codex/models/best_model.keras")
+DATASET_CONFIG = Path("codex/config/dataset_config.json")
+DISEASE_DATABASE = Path("codex/config/disease_database.json")
 
 # =====================================================
 # LOAD PREDICTOR
