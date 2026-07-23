@@ -10,7 +10,7 @@ opencv-python
 
 # Machine learning and deep learning
 scikit-learn
-tensorflow-cpu==2.19.0
+tensorflow==2.19.0
 
 
 
