@@ -99,7 +99,7 @@ def render_sidebar():
         st.write("• Confidence Score")
         st.write("• Treatment Suggestions")
         st.write("• Prevention Tips")
-
+        
 
 
         st.divider()
@@ -109,6 +109,8 @@ def render_sidebar():
         st.write("**Dhruvil Jain**")
 
         st.caption("Science Vasudha (& NCSC) Project")
+
+        st.info("💡 For the best experience, switch to Light Mode from the ☰ menu in the top-right corner.")
 
         # =====================================================
 # HEADER
