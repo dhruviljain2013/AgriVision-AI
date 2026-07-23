@@ -1,0 +1,23 @@
+{
+  "dataset_config_path": "config/dataset_config.json",
+  "training_dir": "C:/Users/oswal/Downloads/LeafDataset/image data/train",
+  "validation_dir": "C:/Users/oswal/Downloads/LeafDataset/image data/validation",
+  "testing_dir": "C:/Users/oswal/Downloads/LeafDataset/image data/test",
+  "model_architecture": "MobileNetV2",
+  "best_model_output_path": "models/best_model.keras",
+  "last_model_output_path": "models/last_model.keras",
+  "history_output_path": "reports/training_history.json",
+  "accuracy_graph_path": "reports/figures/accuracy_graph.png",
+  "loss_graph_path": "reports/figures/loss_graph.png",
+  "classification_report_path": "reports/classification_report.json",
+  "confusion_matrix_path": "reports/figures/confusion_matrix.png",
+  "tensorboard_log_dir": "reports/tensorboard",
+  "batch_size": 16,
+  "epochs": 10,
+  "learning_rate": 0.0001,
+  "early_stopping_patience": 5,
+  "reduce_lr_patience": 3,
+  "reduce_lr_factor": 0.2,
+  "dropout_rate": 0.3,
+  "dense_units": 128
+}

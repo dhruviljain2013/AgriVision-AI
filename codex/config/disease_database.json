@@ -1,0 +1,862 @@
+{
+  "diseases": [
+
+    {
+      "plant_name": "apple",
+      "disease_name": "apple scab",
+      "short_description": "A fungal disease that causes dark scabby spots on apple leaves and fruits.",
+      "cause": "Caused by the fungus Venturia inaequalis.",
+      "symptoms": [
+        "Olive-green leaf spots",
+        "Dark scabs on fruits",
+        "Premature leaf fall",
+        "Reduced fruit quality"
+      ],
+      "treatment": [
+        "Remove infected leaves",
+        "Apply fungicide if necessary",
+        "Prune dense branches"
+      ],
+      "prevention": [
+        "Clean fallen leaves",
+        "Use resistant varieties",
+        "Improve air circulation",
+        "Avoid overhead watering"
+      ]
+    },
+
+    {
+      "plant_name": "apple",
+      "disease_name": "black rot",
+      "short_description": "A fungal disease affecting apple leaves, branches and fruits.",
+      "cause": "Caused by Botryosphaeria obtusa.",
+      "symptoms": [
+        "Purple leaf spots",
+        "Black fruit rot",
+        "Dead branches",
+        "Shriveled fruits"
+      ],
+      "treatment": [
+        "Remove infected fruits",
+        "Prune diseased branches",
+        "Use fungicide"
+      ],
+      "prevention": [
+        "Destroy infected debris",
+        "Maintain tree health",
+        "Prune regularly",
+        "Avoid injuries to branches"
+      ]
+    },
+
+    {
+      "plant_name": "apple",
+      "disease_name": "cedar apple rust",
+      "short_description": "A fungal disease that produces bright orange spots on apple leaves.",
+      "cause": "Caused by Gymnosporangium juniperi-virginianae.",
+      "symptoms": [
+        "Orange leaf spots",
+        "Yellow halos",
+        "Premature leaf drop",
+        "Fruit infection"
+      ],
+      "treatment": [
+        "Use fungicide",
+        "Remove nearby cedar hosts if possible"
+      ],
+      "prevention": [
+        "Plant resistant varieties",
+        "Improve airflow",
+        "Inspect trees regularly"
+      ]
+    },
+
+    {
+      "plant_name": "apple",
+      "disease_name": "healthy",
+      "short_description": "The plant appears healthy with no visible disease symptoms.",
+      "cause": "No disease detected.",
+      "symptoms": [
+        "Healthy green leaves",
+        "Normal fruit growth"
+      ],
+      "treatment": [
+        "No treatment required"
+      ],
+      "prevention": [
+        "Continue proper watering",
+        "Provide balanced fertilizer",
+        "Monitor regularly"
+      ]
+    },
+
+    {
+      "plant_name": "cassava",
+      "disease_name": "bacterial blight (cbb)",
+      "short_description": "A bacterial disease that causes wilting and leaf blight.",
+      "cause": "Caused by Xanthomonas axonopodis pv. manihotis.",
+      "symptoms": [
+        "Angular leaf spots",
+        "Wilting",
+        "Stem dieback",
+        "Leaf blight"
+      ],
+      "treatment": [
+        "Remove infected plants",
+        "Use clean planting material"
+      ],
+      "prevention": [
+        "Use resistant varieties",
+        "Avoid overhead irrigation",
+        "Practice crop rotation"
+      ]
+    },
+
+    {
+      "plant_name": "cassava",
+      "disease_name": "brown streak disease (cbsd)",
+      "short_description": "A viral disease reducing cassava root quality.",
+      "cause": "Cassava Brown Streak Virus.",
+      "symptoms": [
+        "Brown streaks on stems",
+        "Yellow patches",
+        "Root necrosis"
+      ],
+      "treatment": [
+        "Remove infected plants"
+      ],
+      "prevention": [
+        "Use certified disease-free cuttings",
+        "Control whiteflies"
+      ]
+    },
+
+    {
+      "plant_name": "cassava",
+      "disease_name": "green mottle (cgm)",
+      "short_description": "A viral disease producing green mottled leaves.",
+      "cause": "Cassava Green Mottle Virus.",
+      "symptoms": [
+        "Mottled leaves",
+        "Poor growth",
+        "Reduced yield"
+      ],
+      "treatment": [
+        "Remove infected plants"
+      ],
+      "prevention": [
+        "Use healthy cuttings",
+        "Control insect vectors"
+      ]
+    },
+
+    {
+      "plant_name": "cassava",
+      "disease_name": "healthy",
+      "short_description": "Cassava plant appears healthy.",
+      "cause": "No disease detected.",
+      "symptoms": [
+        "Normal green leaves",
+        "Healthy stem growth"
+      ],
+      "treatment": [
+        "No treatment required"
+      ],
+      "prevention": [
+        "Maintain good farming practices"
+      ]
+    },
+
+    {
+      "plant_name": "cassava",
+      "disease_name": "mosaic disease (cmd)",
+      "short_description": "A common viral disease causing leaf distortion.",
+      "cause": "Cassava Mosaic Virus.",
+      "symptoms": [
+        "Leaf curling",
+        "Yellow mosaic",
+        "Stunted growth"
+      ],
+      "treatment": [
+        "Remove infected plants"
+      ],
+      "prevention": [
+        "Use resistant varieties",
+        "Control whiteflies",
+        "Use clean cuttings"
+      ]
+    }
+    ,
+    {
+      "plant_name": "cherry (including sour)",
+      "disease_name": "healthy",
+      "short_description": "The cherry plant is healthy with no visible disease symptoms.",
+      "cause": "No disease detected.",
+      "symptoms": [
+        "Healthy green leaves",
+        "Normal growth"
+      ],
+      "treatment": [
+        "No treatment required"
+      ],
+      "prevention": [
+        "Maintain regular watering",
+        "Provide balanced nutrients"
+      ]
+    },
+
+    {
+      "plant_name": "cherry (including sour)",
+      "disease_name": "powdery mildew",
+      "short_description": "A fungal disease producing white powder-like growth on leaves.",
+      "cause": "Caused by Podosphaera species.",
+      "symptoms": [
+        "White powder on leaves",
+        "Leaf curling",
+        "Reduced growth"
+      ],
+      "treatment": [
+        "Apply fungicide",
+        "Remove infected leaves"
+      ],
+      "prevention": [
+        "Improve airflow",
+        "Avoid excessive humidity"
+      ]
+    },
+
+    {
+      "plant_name": "corn (maize)",
+      "disease_name": "cercospora leaf spot gray leaf spot",
+      "short_description": "A fungal disease that causes long gray lesions on corn leaves.",
+      "cause": "Caused by Cercospora zeae-maydis.",
+      "symptoms": [
+        "Gray rectangular lesions",
+        "Leaf drying",
+        "Reduced yield"
+      ],
+      "treatment": [
+        "Use fungicide",
+        "Remove infected residue"
+      ],
+      "prevention": [
+        "Crop rotation",
+        "Resistant hybrids",
+        "Proper spacing"
+      ]
+    },
+
+    {
+      "plant_name": "corn (maize)",
+      "disease_name": "common rust",
+      "short_description": "A fungal disease producing reddish-brown pustules on leaves.",
+      "cause": "Caused by Puccinia sorghi.",
+      "symptoms": [
+        "Rust-colored pustules",
+        "Yellow leaves",
+        "Reduced photosynthesis"
+      ],
+      "treatment": [
+        "Apply fungicide if severe"
+      ],
+      "prevention": [
+        "Plant resistant varieties",
+        "Monitor fields regularly"
+      ]
+    },
+
+    {
+      "plant_name": "corn (maize)",
+      "disease_name": "healthy",
+      "short_description": "Corn plant appears healthy.",
+      "cause": "No disease detected.",
+      "symptoms": [
+        "Healthy green leaves",
+        "Strong stem"
+      ],
+      "treatment": [
+        "No treatment required"
+      ],
+      "prevention": [
+        "Maintain proper irrigation",
+        "Balanced fertilization"
+      ]
+    },
+
+    {
+      "plant_name": "corn (maize)",
+      "disease_name": "northern leaf blight",
+      "short_description": "A fungal disease causing cigar-shaped lesions on leaves.",
+      "cause": "Caused by Exserohilum turcicum.",
+      "symptoms": [
+        "Long gray lesions",
+        "Leaf death",
+        "Reduced yield"
+      ],
+      "treatment": [
+        "Apply fungicide",
+        "Remove infected debris"
+      ],
+      "prevention": [
+        "Use resistant hybrids",
+        "Crop rotation"
+      ]
+    },
+
+    {
+      "plant_name": "grape",
+      "disease_name": "black rot",
+      "short_description": "A fungal disease affecting grape leaves and berries.",
+      "cause": "Caused by Guignardia bidwellii.",
+      "symptoms": [
+        "Brown leaf spots",
+        "Black shriveled grapes",
+        "Fruit rot"
+      ],
+      "treatment": [
+        "Remove infected berries",
+        "Apply fungicide"
+      ],
+      "prevention": [
+        "Prune vines",
+        "Improve air circulation"
+      ]
+    },
+
+    {
+      "plant_name": "grape",
+      "disease_name": "esca (black measles)",
+      "short_description": "A complex fungal trunk disease of grapevines.",
+      "cause": "Multiple wood-decaying fungi.",
+      "symptoms": [
+        "Tiger-striped leaves",
+        "Fruit spotting",
+        "Branch dieback"
+      ],
+      "treatment": [
+        "Remove infected wood",
+        "Maintain vine health"
+      ],
+      "prevention": [
+        "Protect pruning wounds",
+        "Use clean pruning tools"
+      ]
+    },
+
+    {
+      "plant_name": "grape",
+      "disease_name": "healthy",
+      "short_description": "The grapevine appears healthy.",
+      "cause": "No disease detected.",
+      "symptoms": [
+        "Healthy leaves",
+        "Healthy grape clusters"
+      ],
+      "treatment": [
+        "No treatment required"
+      ],
+      "prevention": [
+        "Continue good vineyard practices"
+      ]
+    },
+
+    {
+      "plant_name": "grape",
+      "disease_name": "leaf blight (isariopsis leaf spot)",
+      "short_description": "A fungal disease causing dark leaf spots.",
+      "cause": "Caused by Isariopsis species.",
+      "symptoms": [
+        "Dark circular spots",
+        "Leaf yellowing",
+        "Premature leaf drop"
+      ],
+      "treatment": [
+        "Apply fungicide",
+        "Remove infected leaves"
+      ],
+      "prevention": [
+        "Improve airflow",
+        "Avoid excessive moisture"
+      ]
+    },
+{
+  "plant_name": "orange",
+  "disease_name": "haunglongbing (citrus greening)",
+  "short_description": "A serious bacterial disease affecting citrus trees.",
+  "cause": "Caused by Candidatus Liberibacter spp. and spread by citrus psyllids.",
+  "symptoms": [
+    "Yellow shoots",
+    "Blotchy leaf mottling",
+    "Small green fruits",
+    "Fruit drop"
+  ],
+  "treatment": [
+    "No permanent cure available",
+    "Remove severely infected trees",
+    "Control psyllid insects"
+  ],
+  "prevention": [
+    "Plant disease-free saplings",
+    "Monitor orchards regularly",
+    "Control insect vectors"
+  ]
+},
+
+{
+  "plant_name": "peach",
+  "disease_name": "bacterial spot",
+  "short_description": "A bacterial disease that damages peach leaves and fruits.",
+  "cause": "Caused by Xanthomonas arboricola pv. pruni.",
+  "symptoms": [
+    "Dark leaf spots",
+    "Fruit lesions",
+    "Premature leaf drop"
+  ],
+  "treatment": [
+    "Prune infected branches",
+    "Copper-based sprays"
+  ],
+  "prevention": [
+    "Use resistant varieties",
+    "Avoid overhead watering"
+  ]
+},
+
+{
+  "plant_name": "peach",
+  "disease_name": "healthy",
+  "short_description": "Healthy peach tree with no visible disease.",
+  "cause": "No disease detected.",
+  "symptoms": [
+    "Healthy green leaves",
+    "Normal fruit growth"
+  ],
+  "treatment": [
+    "No treatment required"
+  ],
+  "prevention": [
+    "Maintain proper orchard care"
+  ]
+},
+
+{
+  "plant_name": "pepper, bell",
+  "disease_name": "bacterial spot",
+  "short_description": "A bacterial disease causing dark spots on pepper leaves and fruits.",
+  "cause": "Caused by Xanthomonas species.",
+  "symptoms": [
+    "Leaf spots",
+    "Fruit lesions",
+    "Leaf drop"
+  ],
+  "treatment": [
+    "Remove infected plants",
+    "Copper fungicide"
+  ],
+  "prevention": [
+    "Use disease-free seeds",
+    "Crop rotation"
+  ]
+},
+
+{
+  "plant_name": "pepper, bell",
+  "disease_name": "healthy",
+  "short_description": "Healthy bell pepper plant.",
+  "cause": "No disease detected.",
+  "symptoms": [
+    "Healthy leaves",
+    "Normal fruit"
+  ],
+  "treatment": [
+    "No treatment required"
+  ],
+  "prevention": [
+    "Continue good farming practices"
+  ]
+},
+
+{
+  "plant_name": "potato",
+  "disease_name": "early blight",
+  "short_description": "A fungal disease producing concentric brown spots.",
+  "cause": "Caused by Alternaria solani.",
+  "symptoms": [
+    "Brown circular lesions",
+    "Yellow leaves",
+    "Leaf drying"
+  ],
+  "treatment": [
+    "Apply fungicide",
+    "Remove infected leaves"
+  ],
+  "prevention": [
+    "Crop rotation",
+    "Healthy seed potatoes"
+  ]
+},
+
+{
+  "plant_name": "potato",
+  "disease_name": "healthy",
+  "short_description": "Healthy potato plant.",
+  "cause": "No disease detected.",
+  "symptoms": [
+    "Healthy green foliage"
+  ],
+  "treatment": [
+    "No treatment required"
+  ],
+  "prevention": [
+    "Maintain proper irrigation"
+  ]
+},
+
+{
+  "plant_name": "potato",
+  "disease_name": "late blight",
+  "short_description": "A destructive fungal disease affecting leaves and tubers.",
+  "cause": "Caused by Phytophthora infestans.",
+  "symptoms": [
+    "Water-soaked lesions",
+    "Dark leaves",
+    "Tuber rot"
+  ],
+  "treatment": [
+    "Destroy infected plants",
+    "Apply fungicide"
+  ],
+  "prevention": [
+    "Use certified seed",
+    "Avoid wet foliage"
+  ]
+},
+
+{
+  "plant_name": "rice",
+  "disease_name": "brownspot",
+  "short_description": "A fungal disease causing brown lesions on rice leaves.",
+  "cause": "Caused by Bipolaris oryzae.",
+  "symptoms": [
+    "Brown oval spots",
+    "Leaf drying",
+    "Poor grain filling"
+  ],
+  "treatment": [
+    "Apply fungicide",
+    "Balanced fertilization"
+  ],
+  "prevention": [
+    "Healthy seeds",
+    "Proper drainage"
+  ]
+},
+
+{
+  "plant_name": "rice",
+  "disease_name": "healthy",
+  "short_description": "Healthy rice plant.",
+  "cause": "No disease detected.",
+  "symptoms": [
+    "Healthy green leaves"
+  ],
+  "treatment": [
+    "No treatment required"
+  ],
+  "prevention": [
+    "Maintain good cultivation practices"
+  ]
+},
+
+{
+  "plant_name": "rice",
+  "disease_name": "hispa",
+  "short_description": "An insect pest damaging rice leaves.",
+  "cause": "Rice hispa beetle infestation.",
+  "symptoms": [
+    "White scraping marks",
+    "Leaf drying",
+    "Reduced growth"
+  ],
+  "treatment": [
+    "Use recommended insecticide",
+    "Remove heavily affected leaves"
+  ],
+  "prevention": [
+    "Field monitoring",
+    "Proper pest management"
+  ]
+},
+
+{
+  "plant_name": "rice",
+  "disease_name": "leafblast",
+  "short_description": "A fungal disease producing spindle-shaped lesions.",
+  "cause": "Caused by Magnaporthe oryzae.",
+  "symptoms": [
+    "Diamond-shaped lesions",
+    "Leaf drying",
+    "Reduced yield"
+  ],
+  "treatment": [
+    "Apply fungicide",
+    "Balanced nitrogen application"
+  ],
+  "prevention": [
+    "Resistant varieties",
+    "Avoid excessive nitrogen"
+  ]
+},
+{
+  "plant_name": "squash",
+  "disease_name": "powdery mildew",
+  "short_description": "A fungal disease producing white powder on squash leaves.",
+  "cause": "Caused by powdery mildew fungi.",
+  "symptoms": [
+    "White powdery coating",
+    "Leaf yellowing",
+    "Reduced growth"
+  ],
+  "treatment": [
+    "Apply fungicide",
+    "Remove infected leaves"
+  ],
+  "prevention": [
+    "Improve airflow",
+    "Avoid overcrowding"
+  ]
+},
+
+{
+  "plant_name": "strawberry",
+  "disease_name": "healthy",
+  "short_description": "Healthy strawberry plant.",
+  "cause": "No disease detected.",
+  "symptoms": [
+    "Healthy green leaves",
+    "Healthy fruit"
+  ],
+  "treatment": [
+    "No treatment required"
+  ],
+  "prevention": [
+    "Continue good cultivation practices"
+  ]
+},
+
+{
+  "plant_name": "strawberry",
+  "disease_name": "leaf scorch",
+  "short_description": "A fungal disease causing purple-red leaf spots.",
+  "cause": "Caused by Diplocarpon earlianum.",
+  "symptoms": [
+    "Purple spots",
+    "Brown leaf edges",
+    "Leaf drying"
+  ],
+  "treatment": [
+    "Remove infected leaves",
+    "Apply fungicide"
+  ],
+  "prevention": [
+    "Improve airflow",
+    "Avoid wet foliage"
+  ]
+},
+
+{
+  "plant_name": "tomato",
+  "disease_name": "bacterial spot",
+  "short_description": "A bacterial disease causing dark leaf and fruit spots.",
+  "cause": "Caused by Xanthomonas species.",
+  "symptoms": [
+    "Small dark leaf spots",
+    "Fruit lesions",
+    "Leaf yellowing"
+  ],
+  "treatment": [
+    "Copper spray",
+    "Remove infected plants"
+  ],
+  "prevention": [
+    "Use certified seed",
+    "Crop rotation"
+  ]
+},
+
+{
+  "plant_name": "tomato",
+  "disease_name": "early blight",
+  "short_description": "A fungal disease producing concentric brown lesions.",
+  "cause": "Caused by Alternaria solani.",
+  "symptoms": [
+    "Brown circular spots",
+    "Yellow leaves",
+    "Leaf drop"
+  ],
+  "treatment": [
+    "Apply fungicide",
+    "Remove infected leaves"
+  ],
+  "prevention": [
+    "Crop rotation",
+    "Avoid overhead watering"
+  ]
+},
+
+{
+  "plant_name": "tomato",
+  "disease_name": "healthy",
+  "short_description": "Healthy tomato plant.",
+  "cause": "No disease detected.",
+  "symptoms": [
+    "Healthy green foliage"
+  ],
+  "treatment": [
+    "No treatment required"
+  ],
+  "prevention": [
+    "Maintain proper watering and fertilization"
+  ]
+},
+
+{
+  "plant_name": "tomato",
+  "disease_name": "late blight",
+  "short_description": "A severe fungal disease affecting leaves and fruits.",
+  "cause": "Caused by Phytophthora infestans.",
+  "symptoms": [
+    "Water-soaked lesions",
+    "Dark leaves",
+    "Fruit rot"
+  ],
+  "treatment": [
+    "Destroy infected plants",
+    "Apply fungicide"
+  ],
+  "prevention": [
+    "Avoid wet foliage",
+    "Improve airflow"
+  ]
+},
+
+{
+  "plant_name": "tomato",
+  "disease_name": "leaf mold",
+  "short_description": "A fungal disease affecting tomato leaves in humid conditions.",
+  "cause": "Caused by Passalora fulva.",
+  "symptoms": [
+    "Yellow patches",
+    "Olive mold underneath leaves",
+    "Leaf curling"
+  ],
+  "treatment": [
+    "Apply fungicide",
+    "Reduce humidity"
+  ],
+  "prevention": [
+    "Increase ventilation",
+    "Avoid overhead watering"
+  ]
+},
+
+{
+  "plant_name": "tomato",
+  "disease_name": "septoria leaf spot",
+  "short_description": "A fungal disease causing many small circular spots.",
+  "cause": "Caused by Septoria lycopersici.",
+  "symptoms": [
+    "Small gray spots",
+    "Leaf yellowing",
+    "Premature leaf drop"
+  ],
+  "treatment": [
+    "Remove infected leaves",
+    "Apply fungicide"
+  ],
+  "prevention": [
+    "Crop rotation",
+    "Avoid splashing water"
+  ]
+},
+
+{
+  "plant_name": "tomato",
+  "disease_name": "spider mites two-spotted spider mite",
+  "short_description": "Damage caused by spider mites feeding on tomato leaves.",
+  "cause": "Infestation by two-spotted spider mites.",
+  "symptoms": [
+    "Tiny yellow dots",
+    "Fine webbing",
+    "Leaf drying"
+  ],
+  "treatment": [
+    "Use miticide if necessary",
+    "Wash leaves with water"
+  ],
+  "prevention": [
+    "Monitor plants regularly",
+    "Maintain humidity"
+  ]
+},
+
+{
+  "plant_name": "tomato",
+  "disease_name": "target spot",
+  "short_description": "A fungal disease producing circular target-like lesions.",
+  "cause": "Caused by Corynespora cassiicola.",
+  "symptoms": [
+    "Brown concentric spots",
+    "Leaf yellowing",
+    "Fruit lesions"
+  ],
+  "treatment": [
+    "Apply fungicide",
+    "Remove infected foliage"
+  ],
+  "prevention": [
+    "Improve airflow",
+    "Crop rotation"
+  ]
+},
+
+{
+  "plant_name": "tomato",
+  "disease_name": "tomato mosaic virus",
+  "short_description": "A viral disease causing mottled leaves and poor fruit quality.",
+  "cause": "Tomato Mosaic Virus.",
+  "symptoms": [
+    "Mosaic leaf pattern",
+    "Leaf curling",
+    "Reduced yield"
+  ],
+  "treatment": [
+    "Remove infected plants"
+  ],
+  "prevention": [
+    "Disinfect tools",
+    "Use resistant varieties"
+  ]
+},
+
+{
+  "plant_name": "tomato",
+  "disease_name": "tomato yellow leaf curl virus",
+  "short_description": "A viral disease spread by whiteflies.",
+  "cause": "Tomato Yellow Leaf Curl Virus.",
+  "symptoms": [
+    "Leaf curling",
+    "Yellow leaves",
+    "Stunted growth"
+  ],
+  "treatment": [
+    "Remove infected plants"
+  ],
+  "prevention": [
+    "Control whiteflies",
+    "Use resistant varieties"
+  ]
+}
+
+  ]
+}

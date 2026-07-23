@@ -1,0 +1,22 @@
+# Core scientific libraries
+numpy
+pandas
+matplotlib
+seaborn
+
+# Image processing
+pillow
+opencv-python
+
+# Machine learning and deep learning
+scikit-learn
+tensorflow
+
+
+
+# Future app interface
+streamlit
+
+# Utility
+python-dotenv
+tqdm
