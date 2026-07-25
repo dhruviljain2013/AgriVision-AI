@@ -13,7 +13,7 @@ from plant_tips import get_tip
 # =====================================================
 
 st.set_page_config(
-    page_title="AgriVision AI",
+    page_title="CropSentry",
     page_icon="🌿",
     layout="wide"
 )
@@ -22,9 +22,9 @@ st.set_page_config(
 # PATHS
 # =====================================================
 
-MODEL_PATH = Path("codex/models/best_model.keras")
-DATASET_CONFIG = Path("codex/config/dataset_config.json")
-DISEASE_DATABASE = Path("codex/config/disease_database.json")
+MODEL_PATH = Path("models/best_model.keras")
+DATASET_CONFIG = Path("config/dataset_config.json")
+DISEASE_DATABASE = Path("config/disease_database.json")
 
 # =====================================================
 # LOAD PREDICTOR
@@ -86,7 +86,7 @@ def render_sidebar():
 
     with st.sidebar:
 
-        st.title("🌿 AgriVision AI")
+        st.title("🌿 CropSentry")
 
         st.success("AI Model Loaded")
 
@@ -119,7 +119,7 @@ def render_sidebar():
 def render_header():
 
     st.markdown(
-        "<div class='main-title'>🌿 AgriVision AI</div>",
+        "<div class='main-title'>🌿 CropSentry</div>",
         unsafe_allow_html=True,
     )
 
