@@ -86,6 +86,8 @@ def render_sidebar():
 
     with st.sidebar:
 
+        st.info("💡 For the best experience, switch to Light Mode from the ☰ menu in the top-right corner.")
+
         st.title("🌿 CropSentry")
 
         st.success("AI Model Loaded")
@@ -109,8 +111,6 @@ def render_sidebar():
         st.write("**Dhruvil Jain**")
 
         st.caption("Science Vasudha (& NCSC) Project")
-
-        st.info("💡 For the best experience, switch to Light Mode from the ☰ menu in the top-right corner.")
 
         # =====================================================
 # HEADER
@@ -213,7 +213,7 @@ def show_result(result, prediction_time):
 
     st.subheader("🌱 Prediction Result")
 
-    col1, col2, col3, col4 = st.columns(4)
+    col1, col2, col3, col4 = st.columns([1.2, 2.6, 1.2, 1.0])
 
     with col1:
         st.metric(
